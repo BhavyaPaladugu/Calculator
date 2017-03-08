@@ -1,0 +1,6 @@
+c:\users\bpala\onedrive\documents\visual studio 2015\Projects\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\CalculatorConsoleApplication.exe.config
+c:\users\bpala\onedrive\documents\visual studio 2015\Projects\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\CalculatorConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\bpala\onedrive\documents\visual studio 2015\Projects\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\CalculatorConsoleApplication.exe
+c:\users\bpala\onedrive\documents\visual studio 2015\Projects\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\CalculatorConsoleApplication.pdb
+c:\users\bpala\onedrive\documents\visual studio 2015\Projects\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\CalculatorConsoleApplication.exe
+c:\users\bpala\onedrive\documents\visual studio 2015\Projects\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\CalculatorConsoleApplication.pdb
